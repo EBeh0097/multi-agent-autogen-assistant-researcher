@@ -1,37 +1,41 @@
 # Multi-Agent AutoGen Research Assistant
 
-A collaborative AutoGen workflow that coordinates planner, engineer, scientist, executor, and critic agents to find and classify recent arXiv papers.
+## Project Overview
 
-## Why this project matters
-This repository demonstrates practical Generative AI engineering skills: model integration, agent workflows, prompt engineering, data preprocessing, tool use, and reproducible notebook-based experimentation.
+An enterprise-grade Multi-Agent AI system built using AutoGen to demonstrate collaborative autonomous agents capable of solving complex tasks through coordinated reasoning, planning, and execution.
 
-## Recruiter-ready skills shown
-- Multi-agent orchestration with Microsoft AutoGen
-- Role-based agent design: planner, executor, scientist, critic
-- OpenAI API integration using environment variables
-- Research automation and structured markdown output
-- Prompt engineering and workflow governance
+This project highlights advanced Generative AI engineering concepts including:
+- Multi-agent orchestration
+- Autonomous reasoning workflows
+- LLM collaboration systems
+- AI task delegation
+- Conversational agent architectures
+- Human-in-the-loop AI systems
 
-## Project structure
-```text
-.
-├── notebooks/
-│   └── multi-agent_autogen_research_assistant.ipynb
-├── requirements.txt
-├── .env.example
-├── .gitignore
-└── README.md
-```
+## Technical Skills Demonstrated
 
-## Setup
-```bash
-python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
-pip install -r requirements.txt
-```
+### Generative AI & LLM Engineering
+- Multi-Agent AI Systems
+- Prompt Engineering
+- Autonomous Agent Design
+- Agent Collaboration Strategies
+- Conversational AI
+- LLM Workflow Optimization
 
-## How to run
-1. Open the notebook in Jupyter, VS Code, or Google Colab.
-2. Install dependencies from `requirements.txt`.
-3. Add required API keys as environment variables, never directly inside the notebook.
-4. Run cells from top to bottom.
+### AI Frameworks & Tools
+- Microsoft AutoGen
+- OpenAI API
+- Python AI Development
+- AI Orchestration Frameworks
+
+## Business Applications
+- Healthcare AI Assistants
+- Intelligent Research Automation
+- Enterprise Workflow Automation
+- Clinical & Operational Intelligence
+
+## Author
+
+Emmanuel Ebeh  
+Health Data Scientist | AI Engineer | Generative AI Researcher
+
